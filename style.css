@@ -6,13 +6,12 @@
 
 body {
     font-family: "Montserrat", sans-serif;
-    /* padding: 10px; */
 
     a,
     h2,
     p,
     button {
-        font-size: clamp(15px, 4vw, 20px);
+        font-size: 20px;
     }
 }
 
@@ -46,7 +45,7 @@ body {
 
 main {
     width: 100%;
-    height: calc(100dvh - 128px);
+    height: calc(100dvh - 119px);
     align-content: center;
     text-align: center;
     gap: 20px;
